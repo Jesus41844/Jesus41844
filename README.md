@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hola, soy Jesús de Gracia 👋</h1>
+  <h1>Hola, soy Jesus de Gracia 👋</h1>
   <h3>DayTuba · Desarrollador de software · Estudiante en la UTP 🇵🇦</h3>
   <p><i>Construyo herramientas que resuelven los problemas que van surgiendo en mi vida, por ejemplo: mi propia rutina, universidad y los eventos en los que participo.</i></p>
 </div>
