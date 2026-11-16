@@ -51,7 +51,6 @@
 | Cuándo | Qué | Dónde |
 |---|---|---|
 | Oct 2026 | Agente verificador que revisaba cada 30 min los repos de los 12 equipos y notificaba los cambios por Telegram | Hackathon FISC AI Agents 2026, UTP |
-| Oct 2026 | Overlays de transmisión en OBS | CONTECS 2026, FISC, UTP |
 | Oct 2026 | Retos Dynatrace | Hackathon Copa 2026 "API, DevOps y Observabilidad" |
 | 2026 | Sistema de inscripción y asistencia con QR | EurusConf 2026 |
 | 2026 | [AppMermeLAB](https://github.com/Jesus41844/AppMermeLAB): ERP para un laboratorio de mermeladas, con la Universidad del Valle de Guatemala | COIL 2026, UTP × UVG |
