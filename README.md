@@ -9,7 +9,7 @@
 ### 👾 Sobre mí
 
 * **Qué hago:** apps web full-stack, agentes con IA y automatizaciones. Casi todo lo que hago empieza porque yo o alguien cerca lo necesitaba.
-* **Dónde estudio:** Universidad Tecnológica de Panamá (FISC). Miembro del **GREB** (Grupo de Robótica Evolutiva BioInspirada).
+* **Dónde estudio:** Universidad Tecnológica de Panamá (FISC). Presidente de **GREB** (Grupo de Robótica Evolutiva BioInspirada).
 * **Qué me gusta:** que las cosas funcionen sin mí. Bots que avisan solos, agentes que vigilan reglas, sistemas que se sincronizan entre sí.
 
 ### 🛠️ Stack
